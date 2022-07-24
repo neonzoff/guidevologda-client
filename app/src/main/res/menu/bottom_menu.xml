@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/home_tab" />
+    <item
+        android:id="@+id/typeentities"
+        android:icon="@drawable/ic_baseline_collections_24"
+        android:title="@string/entities_tab" />
+    <item
+        android:id="@+id/tracks"
+        android:icon="@drawable/ic_baseline_alt_route_24"
+        android:title="@string/routes_tab" />
+    <item
+        android:id="@+id/map"
+        android:icon="@drawable/ic_baseline_map_24"
+        android:title="@string/map_tab" />
+</menu>

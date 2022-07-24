@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/home">
+
+    <fragment
+        android:id="@+id/home"
+        android:name="ru.neonzoff.guidevologdaclient.screens.home.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/typeentities"
+        android:name="ru.neonzoff.guidevologdaclient.screens.entities.TypeEntityFragment"
+        android:label="fragment_entities"
+        tools:layout="@layout/fragment_typeentity">
+        <action
+            android:id="@+id/action_typeentities_to_entityFragment2"
+            app:destination="@id/entityFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/tracks"
+        android:name="ru.neonzoff.guidevologdaclient.screens.tracks.TracksFragment"
+        android:label="fragment_tracks"
+        tools:layout="@layout/fragment_tracks">
+        <action
+            android:id="@+id/action_tracks_to_trackFragment"
+            app:destination="@id/trackFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/map"
+        android:name="ru.neonzoff.guidevologdaclient.screens.map.MapFragment"
+        android:label="fragment_map"
+        tools:layout="@layout/fragment_map" />
+    <fragment
+        android:id="@+id/entityFragment"
+        android:name="ru.neonzoff.guidevologdaclient.screens.entities.EntityFragment"
+        android:label="fragment_entity"
+        tools:layout="@layout/fragment_entity">
+        <action
+            android:id="@+id/action_entityFragment_to_typeentities2"
+            app:destination="@id/typeentities" />
+        <action
+            android:id="@+id/action_entityFragment_to_itemFragment"
+            app:destination="@id/itemFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/itemFragment"
+        android:name="ru.neonzoff.guidevologdaclient.screens.entities.ItemFragment"
+        android:label="fragment_item"
+        tools:layout="@layout/fragment_item">
+        <action
+            android:id="@+id/action_itemFragment_to_entityFragment"
+            app:destination="@id/entityFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/trackFragment"
+        android:name="ru.neonzoff.guidevologdaclient.screens.tracks.TrackFragment"
+        android:label="fragment_track">
+        <action
+            android:id="@+id/action_trackFragment_to_tracks"
+            app:destination="@id/tracks" />
+    </fragment>
+</navigation>

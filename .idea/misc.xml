@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dmitry/AndroidStudioProjects/GuideVologdaClient/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Dmitry/AndroidStudioProjects/GuideVologdaClient/app/src/main/res/layout/activity_splash.xml" value="0.33" />
+        <entry key="..\:/Users/Dmitry/AndroidStudioProjects/GuideVologdaClient/app/src/main/res/layout/contact_layout.xml" value="0.3807291666666667" />
+        <entry key="..\:/Users/Dmitry/AndroidStudioProjects/GuideVologdaClient/app/src/main/res/layout/entity_in_track_layout.xml" value="0.31252672082086363" />
+        <entry key="..\:/Users/Dmitry/AndroidStudioProjects/GuideVologdaClient/app/src/main/res/layout/entity_layout.xml" value="0.5" />
+        <entry key="..\:/Users/Dmitry/AndroidStudioProjects/GuideVologdaClient/app/src/main/res/layout/fragment_entities.xml" value="0.13541666666666666" />
+        <entry key="..\:/Users/Dmitry/AndroidStudioProjects/GuideVologdaClient/app/src/main/res/layout/fragment_entity.xml" value="0.3807291666666667" />
+        <entry key="..\:/Users/Dmitry/AndroidStudioProjects/GuideVologdaClient/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Users/Dmitry/AndroidStudioProjects/GuideVologdaClient/app/src/main/res/layout/fragment_item.xml" value="0.33" />
+        <entry key="..\:/Users/Dmitry/AndroidStudioProjects/GuideVologdaClient/app/src/main/res/layout/fragment_map.xml" value="0.33" />
+        <entry key="..\:/Users/Dmitry/AndroidStudioProjects/GuideVologdaClient/app/src/main/res/layout/fragment_routes.xml" value="0.14947916666666666" />
+        <entry key="..\:/Users/Dmitry/AndroidStudioProjects/GuideVologdaClient/app/src/main/res/layout/fragment_track.xml" value="0.22" />
+        <entry key="..\:/Users/Dmitry/AndroidStudioProjects/GuideVologdaClient/app/src/main/res/layout/fragment_tracks.xml" value="0.31252672082086363" />
+        <entry key="..\:/Users/Dmitry/AndroidStudioProjects/GuideVologdaClient/app/src/main/res/layout/fragment_typeentity.xml" value="0.33" />
+        <entry key="..\:/Users/Dmitry/AndroidStudioProjects/GuideVologdaClient/app/src/main/res/layout/fragment_typesofentities.xml" value="0.1" />
+        <entry key="..\:/Users/Dmitry/AndroidStudioProjects/GuideVologdaClient/app/src/main/res/layout/home_image_layout.xml" value="0.33" />
+        <entry key="..\:/Users/Dmitry/AndroidStudioProjects/GuideVologdaClient/app/src/main/res/layout/item_image_layout.xml" value="0.2" />
+        <entry key="..\:/Users/Dmitry/AndroidStudioProjects/GuideVologdaClient/app/src/main/res/layout/item_layout.xml" value="0.3807291666666667" />
+        <entry key="..\:/Users/Dmitry/AndroidStudioProjects/GuideVologdaClient/app/src/main/res/layout/track_layout.xml" value="0.31252672082086363" />
+        <entry key="..\:/Users/Dmitry/AndroidStudioProjects/GuideVologdaClient/app/src/main/res/layout/type_entity_layout.xml" value="0.33" />
+        <entry key="..\:/Users/Dmitry/AndroidStudioProjects/GuideVologdaClient/app/src/main/res/menu/bottom_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Dmitry/AndroidStudioProjects/GuideVologdaClient/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.3807291666666667" />
+        <entry key="..\:/Users/neonz/StudioProjects/guidevologda-client/app/src/main/res/layout/fragment_home.xml" value="0.1175925925925926" />
+        <entry key="..\:/Users/neonz/StudioProjects/guidevologda-client/app/src/main/res/layout/fragment_home_save.xml" value="0.3145833333333333" />
+        <entry key="..\:/Users/neonz/StudioProjects/guidevologda-client/app/src/main/res/layout/fragment_item.xml" value="0.3145833333333333" />
+        <entry key="..\:/Users/neonz/StudioProjects/guidevologda-client/app/src/main/res/layout/fragment_item_save.xml" value="0.3145833333333333" />
+        <entry key="..\:/Users/neonz/StudioProjects/guidevologda-client/app/src/main/res/layout/fragment_map.xml" value="0.1578125" />
+        <entry key="..\:/Users/neonz/StudioProjects/guidevologda-client/app/src/main/res/layout/fragment_track.xml" value="0.22777777777777777" />
+        <entry key="..\:/Users/neonz/StudioProjects/guidevologda-client/app/src/main/res/layout/fragment_track_save.xml" value="0.3145833333333333" />
+        <entry key="..\:/Users/neonz/StudioProjects/guidevologda-client/app/src/main/res/layout/fragment_tracks.xml" value="0.1685185185185185" />
+        <entry key="..\:/Users/neonz/StudioProjects/guidevologda-client/app/src/main/res/layout/track_layout.xml" value="0.3145833333333333" />
+        <entry key="..\:/Users/neonz/StudioProjects/guidevologda-client/app/src/main/res/layout/view_holder_entity_button.xml" value="0.3390625" />
+        <entry key="..\:/Users/neonz/StudioProjects/guidevologda-client/app/src/main/res/layout/view_holder_entity_contacts.xml" value="0.3145833333333333" />
+        <entry key="..\:/Users/neonz/StudioProjects/guidevologda-client/app/src/main/res/layout/view_holder_entity_images.xml" value="0.3145833333333333" />
+        <entry key="..\:/Users/neonz/StudioProjects/guidevologda-client/app/src/main/res/layout/view_holder_entity_text.xml" value="0.3145833333333333" />
+        <entry key="..\:/Users/neonz/StudioProjects/guidevologda-client/app/src/main/res/layout/view_holder_home_button.xml" value="0.3145833333333333" />
+        <entry key="..\:/Users/neonz/StudioProjects/guidevologda-client/app/src/main/res/layout/view_holder_home_images.xml" value="0.3145833333333333" />
+        <entry key="..\:/Users/neonz/StudioProjects/guidevologda-client/app/src/main/res/layout/view_holder_home_text.xml" value="0.2537037037037037" />
+        <entry key="..\:/Users/neonz/StudioProjects/guidevologda-client/app/src/main/res/layout/view_holder_track_entities.xml" value="0.3145833333333333" />
+        <entry key="..\:/Users/neonz/StudioProjects/guidevologda-client/app/src/main/res/layout/view_holder_track_map.xml" value="0.3145833333333333" />
+        <entry key="..\:/Users/neonz/StudioProjects/guidevologda-client/app/src/main/res/layout/view_holder_track_text.xml" value="0.3145833333333333" />
+        <entry key="..\:/Users/neonz/StudioProjects/guidevologda-client/app/src/main/res/layout/view_holder_type_a.xml" value="0.1" />
+        <entry key="..\:/Users/neonz/StudioProjects/guidevologda-client/app/src/main/res/layout/view_holder_type_b.xml" value="0.1" />
+        <entry key="..\:/Users/neonz/StudioProjects/guidevologda-client/app/src/main/res/layout/view_holder_type_c.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

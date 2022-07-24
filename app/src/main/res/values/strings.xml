@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Guide Vologda Client</string>
+    <string name="home_tab">Home</string>
+    <string name="entities_tab">Entities</string>
+    <string name="routes_tab">Routes</string>
+    <string name="map_tab">Map</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="lang_rus">Russian</string>
+    <string name="lang_eng">English</string>
+    <string name="apply">Apply</string>
+    <string name="initial_settings_text">Initial settings</string>
+    <string name="language">Language</string>
+    <string name="test_item_desc">Long text to check the filling of the description of the object in English</string>
+    <string name="test_item_name">Object name</string>
+    <string name="address">Address</string>
+    <string name="work_schedule">Work schedule</string>
+    <string name="test_track_desc">Long text to check the filling of the description of the track in English</string>
+    <string name="test_track_name">Track name</string>
+    <string name="change_language">Change language</string>
+    <string name="show_on_map">Show on map</string>
+    <string name="clicked_on_button_to_map">The object has been selected on the map, go to the map tab to view</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
